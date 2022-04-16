@@ -1,0 +1,13 @@
+Date,Country,cases,preds,Date_prediction
+Nov-21,Brazil,null,921252.2871,Jan-22
+Nov-21,Germany,null,973561.3247,Jan-22
+Nov-21,India,null,978918.8026,Jan-22
+Nov-21,Japan,null,763016.3051,Jan-22
+Nov-21,USA,null,1512374.892,Jan-22
+Nov-21,United Kingdom,null,523905.7733,Jan-22
+Dec-21,Brazil,null,988587.5058,Feb-22
+Dec-21,Germany,null,1124023.397,Feb-22
+Dec-21,India,null,796301.1445,Feb-22
+Dec-21,Japan,null,961500.0786,Feb-22
+Dec-21,USA,null,1136533.922,Feb-22
+Dec-21,United Kingdom,null,860034.0919,Feb-22
